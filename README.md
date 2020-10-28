@@ -2,7 +2,7 @@
 
 #### Glad you stopped by...Hi 👋 I am CSE Sophomore at IIT Guwahati. 
 
-🤓Love to work alongside like minded people enthusaistic about AI, Ar/VR or any other cool tech.
+🤓Love to work alongside like minded people enthusaistic about AI, AR/VR or any other cool tech.
 
 🔭 Firmly belive that Deep Reinforcement Learning can help in achieving AGI.
 
