@@ -1,7 +1,8 @@
-### Hi there 👋
-Bringing a first principle and visionary approach to the table. 
+## Hi there 👋
+### Bringing a first principle and visionary approach to the table. 
 
 I am CSE Sophomore at IIT Guwahati. 
+
 🤓Love to work alongside like minded people enthusaistic about AI, Ar/VR or any other cool tech.
 
 🔭 Firmly belive that Deep Reinforcement Learning can help in achieving AGI.
