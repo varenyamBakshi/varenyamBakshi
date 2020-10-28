@@ -2,15 +2,15 @@
 
 #### Glad you stopped by...Hi 👋 I am CSE Sophomore at IIT Guwahati. 
 
-🤓Love to work alongside like minded people enthusaistic about AI, AR/VR or any other cool tech.
+🤓 Love to work alongside like minded people enthusaistic about AI, AR/VR or developing cutting edge tech.
 
 🔭 Firmly belive that Deep Reinforcement Learning can help in achieving AGI.
 
-🧐Like to stay updated about the advancements in IT Industry.
+🧐 Always ready to discuss about the advancements in IT Industry and entrepreneurship ecosystem.
 
 👨🏻‍✈️ Looking to collaborate on any Deep Learning or Augmented Reality Project.
 
-📫 Reach out to me on Linkedin. https://www.linkedin.com/in/varenyambakshi/
+📫 Reach out to me on Linkedin. [Linkedin](https://www.linkedin.com/in/varenyambakshi/)
 
 
 <!--
