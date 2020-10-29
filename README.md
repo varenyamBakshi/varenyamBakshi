@@ -4,7 +4,7 @@
 
 🤓 Love to work alongside like minded people enthusaistic about AI, AR/VR or developing cutting edge tech.
 
-🔭 Firmly belive that Deep Reinforcement Learning can help in achieving AGI.
+🔭 Firmly believe that Deep Reinforcement Learning can help in achieving AGI.
 
 🧐 Always ready to discuss about the advancements in IT Industry and entrepreneurship ecosystem.
 
